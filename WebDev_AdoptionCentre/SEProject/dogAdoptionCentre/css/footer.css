@@ -1,0 +1,9 @@
+footer {
+    background-color: #5a3e2b; /* dark brown */
+    color: #fffefb;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+    font-size: 0.95rem;
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.05);
+}
