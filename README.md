@@ -16,7 +16,7 @@ CSS 30%
 References:
 PDO/ db connection: https://stackoverflow.com/questions/39812047/creating-a-pdo-instance-causes-error
 
-sessions status:https: //stackoverflow.com/questions/6249707/check-if-php-session-has-already-started3
+sessions status: https: //stackoverflow.com/questions/6249707/check-if-php-session-has-already-started3
 
 sanitising the code: https://stackoverflow.com/questions/31322313/creating-a-sanitizing-function  
 
